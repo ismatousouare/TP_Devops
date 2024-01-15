@@ -1,7 +1,5 @@
-
 def dire_bonjour():
-    print("Bonjour")
-
+    print("Bonjour le monde ")
 
 if __name__ == "__main__":
-    main()
+    dire_bonjour()
